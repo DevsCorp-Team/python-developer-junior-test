@@ -6,7 +6,7 @@ Esta prueba técnica tiene como objetivo evaluar tus habilidades fundamentales d
 
 ## Instrucciones generales
 
-1. **Duración de la Pueba:** 4 horas.
+1. **Duración de la Pueba:** 3 horas.
 2. **Entrega de la prueba:** Debes entregar tu solución a través de un repositorio de GitHub que habrás clonado previamente (más detalles al final).
 3. **Evaluación:** Se evaluará la correctitud de las soluciones, la calidad del código y la capacidad para resolver problemas de manera eficiente.
 4. **Personas de apoyo:** Durante la prueba, tendrás acceso a una persona de apoyo para aclarar cualquier duda técnica o de interpretación de los ejercicios. No dudes en consultar si algo no está claro.
