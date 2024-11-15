@@ -22,7 +22,7 @@ Para entregar tu solución, sigue estos pasos:
 ## Pasos para hacer el fork y entregar tu solución:
 
 1. **Haz un fork de este repositorio:**
-    - Visita el siguiente repositorio: [Enlace al repositorio de la prueba técnica]().
+    - Visita el siguiente repositorio: [Enlace al repositorio de la prueba técnica](https://github.com/DevsCorp-Team/python-developer-junior-test.git).
     - Haz clic en el botón `Fork` en la esquina superior derecha de la página.
     - Esto creará una copia del repositorio en tu cuenta de GitHub.
 
@@ -73,7 +73,7 @@ python-developer-junior-test/         <- Raíz del repositorio
 ├── ejercicios/                       <- Carpeta con los ejercicios resueltos
 │   ├── ejercicio_1.py                <- Solución al ejercicio 1
 │   ├── ejercicio_2.py                <- Solución al ejercicio 2
-│   ├── ejercicio_3.py                <- Solución al ejercicio 3
+│   └── ejercicio_3.py                <- Solución al ejercicio 3
 │
 └── .gitignore                        <- (Opcional) Si necesitas excluir archivos
 ```
